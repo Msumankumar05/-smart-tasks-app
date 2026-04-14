@@ -21,11 +21,9 @@
 ## 📥 Installation
 
 ### Quick Start
-1. Download `SmartTasks-v1.0-debug.apk` from the `releases/` folder
+1. Download `My Tasks.apk`
 2. Install on your Android device
 3. Launch and start organizing tasks!
-
-**Complete instructions:** See [INSTALLATION.md](INSTALLATION.md)
 
 ---
 
