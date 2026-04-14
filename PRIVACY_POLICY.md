@@ -1,9 +1,9 @@
-# Privacy Policy for Smart Tasks
+# Privacy Policy for My Tasks
 
 **Last Updated:** April 11, 2026
 
 ## Overview
-Smart Tasks ("App") is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
+My Tasks ("App") is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
 
 ## Information We Collect
 
@@ -98,4 +98,4 @@ This app complies with:
 
 ---
 
-**Your privacy matters to us. By using Smart Tasks, you consent to this Privacy Policy.**
+**Your privacy matters to us. By using My Tasks, you consent to this Privacy Policy.**
