@@ -86,7 +86,6 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have questions about this Privacy Policy or our privacy practices:
 - **Email:** ms.kumar.developer05@gmail.com
-- **Website:** https://www.smarttasks.official
 
 ## Compliance
 
