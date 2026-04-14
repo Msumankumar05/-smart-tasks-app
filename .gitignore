@@ -1,0 +1,70 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Keystore files (IMPORTANT - Never commit!)
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Key/Secret files
+*.key
+*.secrets
+keystore.properties
+signing.properties
+
+# Environment files
+.env
+.env.local
+*.properties
+!gradle.properties
+
+# IDE files
+.idea/
+*.iws
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle files
+.gradle/
+build/
+gradlew.bat
+gradlew
+
+# Build outputs
+app/build/
+*.apk
+*.aar
+*.aab
+
+# Kotlin & Java
+out/
+*.class
+*.jar
+
+# Android generated files
+gen/
+bin/
+
+# Test coverage
+coverage/
+*.lcov
