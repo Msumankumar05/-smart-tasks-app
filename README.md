@@ -19,8 +19,7 @@
 ---
 
 ## 🖼️ App Screenshots
-![image alt](https://github.com/Msumankumar05/My-Tasks-app/blob/aee2eacaab5967c772ef963c7b3c9f5a010b3edd/images/_3847_Screenshot_2026-04-15-00-43-33-55_0c1cf1fd2f8ceaa9f0b42fd73d9d0063__3992_Screenshot_2026-04-15-00-43_.-15-00-43-15-84_0c1cf1fd2f8ceaa9f0b42fd73d9d0063__7077_Screenshot_2026-04-15-00-43-05-63_0c1.jpeg)
-![image alt](https://github.com/Msumankumar05/My-Tasks-app/blob/aee2eacaab5967c772ef963c7b3c9f5a010b3edd/images/Screenshot_2026-04-17-11-32-20-40_0c1cf1fd2f8ceaa9f0b42fd73d9d0063.jpg)
+![image alt](https://github.com/Msumankumar05/My-Tasks-app/blob/4a4321d63de3f41bfb145699859077a808aecc6b/images/_3956_Screenshot_2026-04-17-11-32-20-40_0c1cf1fd2f8ceaa9f0b42fd73d9d0063__620_Screenshot_2026-04-15-00-43-_.-15-00-43-15-84_0c1cf1fd2f8ceaa9f0b42fd73d9d0063__3619_Screenshot_2026-04-15-00-43-05-63_0c1.jpeg)
 The app includes beautiful screens for:
 - Task List Management
 - Add/Edit Tasks with date/time pickers
